@@ -1,6 +1,21 @@
 
 # Airline Passenger Satisfaction Prediction
 
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-Enabled-0072C6)
+![Data Science](https://img.shields.io/badge/Data%20Science-Enabled-9B59B6)
+
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+![Contributors](https://img.shields.io/badge/contributors-4-orange)
+
+![Pandas](https://img.shields.io/badge/Pandas-1.2.4-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-1.21.0-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-orange?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-ff69b4?logo=seaborn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-yellow?logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5.0-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-2.4.3-violet?logo=keras)
+![XGBoost](https://img.shields.io/badge/XGBoost-1.4.2-green?logo=xgboost)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
