@@ -152,7 +152,3 @@ Implemented and evaluated multiple models using different strategies:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-*This README was generated to provide a comprehensive overview of the Airline Passenger Satisfaction Prediction project, detailing its purpose, structure, usage, and key findings.*
